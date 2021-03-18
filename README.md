@@ -3,8 +3,8 @@
 Let's do this!
 
 1. [nodefs](nodefs)
-2. [cssskills](cssskills)
-2. [jsskills](jsskills)
-3. [gitskills](gitskills)
-4. [experience](experience)
+1. [cssskills](cssskills)
+1. [experience](experience)
+1. [jsskills](jsskills)
+1. [gitskills](gitskills)
 
