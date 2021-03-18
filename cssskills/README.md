@@ -5,6 +5,11 @@
 What are the possible values of the CSS `position` property and what do they do?
 
 
+## Custom properties
+
+What are custom properties, and how can they be used in the context of design systems?
+
+
 ## How big is the box?
 
 Given the following CSS and HTML, what is the width of the following box?
