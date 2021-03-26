@@ -16,7 +16,7 @@ Let's talk about what you've done. There are no wrong answers!
 1. Have you worked with TypeScript, and what do you feel about it?
 1. Got experience with both React and Web Components? How do you feel about each in the context of UI components?
 1. Travis, Jenkins, Circle, or GitHub Actions and why?
-1. Let's say you've got a 6S 50C 1800mAh, 40A ESCs, 2306 1900kV, 7x4x3. What's blowing up first?
+1. How can you apply your experience in anthropology to design systems?
 
 ## ama
 
