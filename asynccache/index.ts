@@ -1,4 +1,5 @@
-import { * as promises } from 'fs';
+import { promises as fs } from 'fs';
+import * as path from 'path';
 
 type FilePath = string;
 type FileContents = string;
