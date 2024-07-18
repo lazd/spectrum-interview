@@ -10,6 +10,27 @@ What are the possible values of the CSS `position` property and what do they do?
 What are custom properties, and how can they be used in the context of design systems?
 
 
+## Display property
+
+What are some values you can use for the `display` property, and when would you use them?
+
+
+## Flexbox & Grid
+
+What are the differences between flexbox and grid, and when would you use each?
+
+
+## Toast!
+
+What markup and CSS would you use to implement this Toast component?
+
+```
+╭────────────────────────┬───╮
+│ [i]  Toast with text   │ X │
+│      that wraps nicely │   │ 
+╰────────────────────────┴───╯
+```
+
 ## How big is the box?
 
 Given the following CSS and HTML, what is the width of the following box?
